@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi
+
+**Frontend Developer** about building modern, performant UIs and seamless user experiences.
+
+---
+
+## 🛠️ Skills & Tools
+- **Languages & Frameworks:** JavaScript, React, Node.js
+- **Web Technologies:** HTML, CSS, SCSS, Vite
+- **Platform:** Linux
+
+---
+
+## 🚀 About Me
+- I thrive on creating efficient, maintainable code and pixel-perfect interfaces.
+- Always exploring new tools and technologies in frontend development.
+- Open to collaboration and new opportunities!
+
+---
 
 <!--
-**Drep-github/Drep-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🌱 Fun fact or motto: "Clean code advocate. Always learning."
 -->
