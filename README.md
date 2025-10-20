@@ -5,9 +5,9 @@
 ---
 
 ## 🛠️ Skills & Tools
-- **Languages & Frameworks:** JavaScript, React, Node.js
+- **Languages & Frameworks:** JavaScript, Node.js
 - **Web Technologies:** HTML, CSS, SCSS, Vite
-- **Platform:** Linux
+- **Platform:** Windows, Linux
 
 ---
 
