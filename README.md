@@ -1,6 +1,6 @@
 # 👋 Hi
 
-**Frontend Developer** about building modern, performant UIs and seamless user experiences.
+**Full-Stack Developer** about building modern, performant UIs and seamless user experiences.
 
 ---
 
